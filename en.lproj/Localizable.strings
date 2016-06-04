@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  TianKong
+
+  Created by Cheuk yu Yeung on 12/5/15.
+  Copyright (c) 2015 Cheuk yu Yeung. All rights reserved.
+*/
+
+//interface
+mainViewBG = "bg_eng_1024x768";
+Logout = "Logout";
+Achievement = "Achievement";
+Back = "Back";
+SaveBtn = "Save";
+GameBtn = "Create Game";
+ShareBtn = "Share Note";
+
+//menu
+editText = "Edit";
+shareText = "Share";
+deleteText = "Delete";
+linkText = "Link";
+topText = "Top";
+upText = "Up";
+downText = "Down";
+bottomText = "Bottom";
+
+//error message
+errorConHead = "Connection Failed";
+errorConContent = "Please check your network connection.";
+
+//share view
+successShareMessage = "Success - This page will be automatically closed in 5 seconds";
+failShareMessage = "Fail - Please try again with correct target's Account or UserName";
+orderLabelText = "Input target's Account or User Name:";
+shareBtnText = "Share";
+
+errorNoInputHead = "Sharing Fail";
+errorNoInputContent = "Target's Account or User Name cannot be empty";
+errorWrongInputHead = "Sharing Fail";
+errorWrongInputContent = "The input id is wrong";
+errorToHead = "Sharing Fail";
+errorToContent = "Target's Account or User Name is incorrect";
+errorCantCopyHead = "Sharing Fail";
+errorCantCopyContent = "Duplication fails";
+
+//all fine
+OK = "OK";
+confirmToLeaveText = "Are you confirm to leave without making any change?";
+yes = "YES";
+no = "NO";
+
+//TextField
+askInputText = "Enter Text";
