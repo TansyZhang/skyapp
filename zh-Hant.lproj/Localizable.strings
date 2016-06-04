@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  TianKong
+
+  Created by Cheuk yu Yeung on 12/5/15.
+  Copyright (c) 2015 Cheuk yu Yeung. All rights reserved.
+*/
+
+//interface
+mainViewBG = "bg_chi_1024x768";
+Logout = "登出";
+Achievement = "成就";
+Back = "返回";
+SaveBtn = "儲存";
+GameBtn = "建立遊戲";
+ShareBtn = "分享筆記";
+
+//menu
+editText = "編輯";
+shareText = "分享";
+deleteText = "刪除";
+linkText = "連結";
+topText = "最高層";
+upText = "上一層";
+downText = "下一層";
+bottomText = "最低層";
+
+//error message
+errorConHead = "連接失敗";
+errorConContent = "請檢查你的連接狀態";
+
+//share view
+successShareMessage = "成功 - 此頁面會於五秒後自動關閉";
+failShareMessage = "失敗 - 請重新輸入正確的目標用戶名或帳戶";
+orderLabelText = "請輸入目標的用戶名或帳戶:";
+shareBtnText = "分享";
+
+errorNoInputHead = "分享失敗";
+errorNoInputContent = "目標用戶名或帳戶不能是空的";
+errorWrongInputHead = "分享失敗";
+errorWrongInputContent = "沒有正確的ID";
+errorToHead = "分享失敗";
+errorToContent = "目標用戶名或帳戶不正確";
+errorCantCopyHead = "分享失敗";
+errorCantCopyContent = "複製錯誤";
+
+
+//all fine
+OK = "確認";
+confirmToLeaveText = "請問你是否確定不更新並離開?";
+yes = "是";
+no = "否";
+
+//TextField
+askInputText = "輸入文字";
